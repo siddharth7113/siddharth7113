@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I'm a passionate software developer and technology
 ## About Me
 
 - 🌍 Location: Delhi, India
-- 💼 Current Position: Passionate about Technical Content Writer and Open Source Contributor
+- 💼 Current Position: Passionate about Machine learning and Open Source Contributor
 - 🎓 Education: Sophomore Student in Information Technology and Mathematics at Cluster Innovation Center,Delhi University
 - 🌱 I'm currently learning: Deep Learning,Web development.
   
