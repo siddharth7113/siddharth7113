@@ -12,8 +12,7 @@
 ## My Current Quest 🚀  
 - 🌱 **Leveling Up In**:  
   - **Deep Learning**: Crafting smarter algorithms for smarter decisions.  
-  - **Embedded Systems**: Designing tech that’s small but mighty.  
-  - **Web Dev**: Because great ideas deserve beautiful interfaces.  
+  - **Embedded Systems**: Designing tech that’s small but mighty.    
 
 - 🛠️ **Tinkering With**:  
   - **Drones That Dance**: Micro-drones designed to defy gravity and expectations.  
