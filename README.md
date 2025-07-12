@@ -1,25 +1,21 @@
-# Hello, World! I'm Siddharth 👨‍💻  
+# Hello, I'm Siddharth 👨‍💻
 
-*"If it works, it wasn’t a bug—it was an undocumented feature."*  
+I'm a curious generalist aiming to be a modern-day polymath. Most of my work revolves around the application of AI — especially Machine Learning and Deep Learning — in both STEM and the humanities.
+Many of my projects are driven by the intersection of these domains.
 
-## About Me 🌌  
--  **Location**: Delhi, India (Where the chaos of traffic inspires the order of my code).  
-  **Interests**:  
-  - **AI Adventurer**: Teaching machines to think (or at least pretend to).  
-  - **Hardware Hacker**: Making tiny circuits do big things.  
-  - **Open Source Enthusiast**: Because the best solutions are built together.  
+I'm building a portfolio of my projects here: [siddharth7113.github.io](https://siddharth7113.github.io)
 
-## My Current Quest 🚀  
-  **Leveling Up In**:  
-  - **Deep Learning**: Crafting smarter algorithms for smarter decisions.  
-  - **Embedded Systems**: Designing tech that’s small but mighty.    
+I'm most responsive on **Twitter** and **Email**—feel free to reach out if you'd like to chat, collaborate, or just geek out.
 
-  **Tinkering With**:  
-  - **Drones That Dance**: Micro-drones designed to defy gravity and expectations.  
-  - **IoT Magic**: Connecting sensors, circuits, and ideas to create seamless systems.  
-  - **ML Meets Genomics**: Applying machine learning to decode the mysteries of life itself.  
+---
 
-## A Few Fun Compilers About Me ⚡  
--  Robotics Nerd: Winner at IIT competitions, where code meets creativity.  
--  Gamer of Code: Whether it’s JavaScript promises or drone PID loops, I enjoy every challenge.  
--  Debugging Philosopher: "There’s no such thing as bad code—just happy little accidents."
+###  Fun Fact
+
+When I'm not writing code, I'm probably:
+
+- Binge-watching something.
+- Looking at math behind some algorithm, or
+- Deep-diving into LLMs (Large Language Models).
+I'm well aware of the cognitive offloading effects—and the risks of overuse—but I can't deny I'm hooked. Consider me a fascinated skeptic, or maybe just an informed addict.
+
+_No em-dashes does not mean LLM output, I sometimes purposely use them,but in this case ,the inverse is true. :P_
