@@ -1,8 +1,8 @@
 # Hello, I'm Siddharth 👨‍💻
 
-I trying out stuff
+I'm trying out stuff.
 
-I'm building a portfolio of my projects here: [siddharth7113.github.io](https://siddharth7113.github.io)
+My randomly updated website is here: [siddharth7113.github.io](https://siddharth7113.github.io)
 
 I'm most responsive on **Twitter** and **Email**,feel free to reach out if you'd like to char or collaborate,
 
