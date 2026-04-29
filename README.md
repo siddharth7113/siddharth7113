@@ -2,7 +2,7 @@
 
 I'm trying out stuff.
 
-My randomly updated website is here: ~[siddharth7113.github.io]~ [siddharth.fyi](siddharth.fyi)
+My randomly updated website is here: ~[siddharth7113.github.io]~ [siddharth.fyi](https://siddharth.fyi/)
 
 I'm most responsive on **Twitter** and **Email**,feel free to reach out if you'd like to char or collaborate,
 
